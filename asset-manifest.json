@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/make-your-pizza/static/js/main.42e1b8e0.chunk.js",
-    "main.js.map": "/make-your-pizza/static/js/main.42e1b8e0.chunk.js.map",
+    "main.js": "/make-your-pizza/static/js/main.b468a009.chunk.js",
+    "main.js.map": "/make-your-pizza/static/js/main.b468a009.chunk.js.map",
     "runtime-main.js": "/make-your-pizza/static/js/runtime-main.d451b003.js",
     "runtime-main.js.map": "/make-your-pizza/static/js/runtime-main.d451b003.js.map",
     "static/js/2.0868957b.chunk.js": "/make-your-pizza/static/js/2.0868957b.chunk.js",
     "static/js/2.0868957b.chunk.js.map": "/make-your-pizza/static/js/2.0868957b.chunk.js.map",
     "index.html": "/make-your-pizza/index.html",
-    "precache-manifest.6501c999bb68760785d23b2c181b3491.js": "/make-your-pizza/precache-manifest.6501c999bb68760785d23b2c181b3491.js",
+    "precache-manifest.e5c9463205aab375553e2e4ea5ab69ff.js": "/make-your-pizza/precache-manifest.e5c9463205aab375553e2e4ea5ab69ff.js",
     "service-worker.js": "/make-your-pizza/service-worker.js",
     "static/js/2.0868957b.chunk.js.LICENSE.txt": "/make-your-pizza/static/js/2.0868957b.chunk.js.LICENSE.txt",
     "static/media/pizza-background.jpeg": "/make-your-pizza/static/media/pizza-background.71a7b90e.jpeg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.d451b003.js",
     "static/js/2.0868957b.chunk.js",
-    "static/js/main.42e1b8e0.chunk.js"
+    "static/js/main.b468a009.chunk.js"
   ]
 }
