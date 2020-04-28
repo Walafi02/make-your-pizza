@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d3a5c6a8a31546c5dacc4162c85803a",
+    "revision": "2e2fb10a320ab938817177b18d6b3370",
     "url": "/make-your-pizza/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/make-your-pizza/static/js/2.e4d24475.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c681dcc4670ca87e6bd",
-    "url": "/make-your-pizza/static/js/main.504d52c1.chunk.js"
+    "revision": "18d41b0ee7288527b07f",
+    "url": "/make-your-pizza/static/js/main.74e9a541.chunk.js"
   },
   {
     "revision": "654c72ab582f1507e31a",
