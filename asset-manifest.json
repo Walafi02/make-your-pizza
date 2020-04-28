@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/make-your-pizza/static/js/main.b468a009.chunk.js",
-    "main.js.map": "/make-your-pizza/static/js/main.b468a009.chunk.js.map",
+    "main.js": "/make-your-pizza/static/js/main.504d52c1.chunk.js",
+    "main.js.map": "/make-your-pizza/static/js/main.504d52c1.chunk.js.map",
     "runtime-main.js": "/make-your-pizza/static/js/runtime-main.d451b003.js",
     "runtime-main.js.map": "/make-your-pizza/static/js/runtime-main.d451b003.js.map",
-    "static/js/2.0868957b.chunk.js": "/make-your-pizza/static/js/2.0868957b.chunk.js",
-    "static/js/2.0868957b.chunk.js.map": "/make-your-pizza/static/js/2.0868957b.chunk.js.map",
+    "static/js/2.e4d24475.chunk.js": "/make-your-pizza/static/js/2.e4d24475.chunk.js",
+    "static/js/2.e4d24475.chunk.js.map": "/make-your-pizza/static/js/2.e4d24475.chunk.js.map",
     "index.html": "/make-your-pizza/index.html",
-    "precache-manifest.e5c9463205aab375553e2e4ea5ab69ff.js": "/make-your-pizza/precache-manifest.e5c9463205aab375553e2e4ea5ab69ff.js",
+    "precache-manifest.616b109e304eb8f33671c2c01924ffbe.js": "/make-your-pizza/precache-manifest.616b109e304eb8f33671c2c01924ffbe.js",
     "service-worker.js": "/make-your-pizza/service-worker.js",
-    "static/js/2.0868957b.chunk.js.LICENSE.txt": "/make-your-pizza/static/js/2.0868957b.chunk.js.LICENSE.txt",
+    "static/js/2.e4d24475.chunk.js.LICENSE.txt": "/make-your-pizza/static/js/2.e4d24475.chunk.js.LICENSE.txt",
     "static/media/pizza-background.jpeg": "/make-your-pizza/static/media/pizza-background.71a7b90e.jpeg",
     "static/media/pizza.png": "/make-your-pizza/static/media/pizza.126c585e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d451b003.js",
-    "static/js/2.0868957b.chunk.js",
-    "static/js/main.b468a009.chunk.js"
+    "static/js/2.e4d24475.chunk.js",
+    "static/js/main.504d52c1.chunk.js"
   ]
 }
