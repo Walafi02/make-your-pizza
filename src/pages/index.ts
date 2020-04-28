@@ -1,4 +1,5 @@
 import ChooseSize from './ChooseSize';
-import ChooseCrust from './ChooseCrust';
+import ChooseToppings from './ChooseToppings';
+import CheckCustomPizza from './CheckCustomPizza';
 
-export { ChooseSize, ChooseCrust };
+export { ChooseSize, ChooseToppings, CheckCustomPizza };

@@ -3,7 +3,7 @@ import { createGlobalStyle } from 'styled-components';
 import pizzaBackground from '../assets/pizza-background.jpeg';
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
 
   * {
     margin: 0;
@@ -20,7 +20,7 @@ export default createGlobalStyle`
   }
 
   body, input, button {
-    font: 16px Roboto, sans-serif;
+    font-family: 16px 'PT Serif', serif;
   }
 
   button {
@@ -34,4 +34,18 @@ export default createGlobalStyle`
     padding: 40px 20px;
   }
 
+  .large {
+    height: 200px;
+    width: 200px;
+  }
+
+  .medium {
+    height: 160px;
+    width: 160px;
+  }
+
+  .small {
+    height: 120px;
+    width: 120px;
+  }
 `;
