@@ -1,4 +1,4 @@
-## Teste Description
+## Description Test
 
 Please implement the following app using React and Typescript.
 
